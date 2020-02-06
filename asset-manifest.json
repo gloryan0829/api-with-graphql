@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/api-with-graphql/static/css/main.501034e5.chunk.css",
-    "main.js": "/api-with-graphql/static/js/main.dfc351de.chunk.js",
-    "main.js.map": "/api-with-graphql/static/js/main.dfc351de.chunk.js.map",
+    "main.js": "/api-with-graphql/static/js/main.708f2b74.chunk.js",
+    "main.js.map": "/api-with-graphql/static/js/main.708f2b74.chunk.js.map",
     "runtime-main.js": "/api-with-graphql/static/js/runtime-main.6c4c7d04.js",
     "runtime-main.js.map": "/api-with-graphql/static/js/runtime-main.6c4c7d04.js.map",
     "static/js/2.1bc1bb4c.chunk.js": "/api-with-graphql/static/js/2.1bc1bb4c.chunk.js",
     "static/js/2.1bc1bb4c.chunk.js.map": "/api-with-graphql/static/js/2.1bc1bb4c.chunk.js.map",
     "index.html": "/api-with-graphql/index.html",
-    "precache-manifest.dbf84e041f73c478717d4c93924cf29e.js": "/api-with-graphql/precache-manifest.dbf84e041f73c478717d4c93924cf29e.js",
+    "precache-manifest.35bc82a163d540b65cf0790cc281d5e4.js": "/api-with-graphql/precache-manifest.35bc82a163d540b65cf0790cc281d5e4.js",
     "service-worker.js": "/api-with-graphql/service-worker.js",
     "static/css/main.501034e5.chunk.css.map": "/api-with-graphql/static/css/main.501034e5.chunk.css.map",
     "static/js/2.1bc1bb4c.chunk.js.LICENSE.txt": "/api-with-graphql/static/js/2.1bc1bb4c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6c4c7d04.js",
     "static/js/2.1bc1bb4c.chunk.js",
     "static/css/main.501034e5.chunk.css",
-    "static/js/main.dfc351de.chunk.js"
+    "static/js/main.708f2b74.chunk.js"
   ]
 }
