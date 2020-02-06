@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/apiWithGraphQLAndReact/static/css/main.501034e5.chunk.css",
-    "main.js": "/apiWithGraphQLAndReact/static/js/main.dfc351de.chunk.js",
-    "main.js.map": "/apiWithGraphQLAndReact/static/js/main.dfc351de.chunk.js.map",
-    "runtime-main.js": "/apiWithGraphQLAndReact/static/js/runtime-main.51a17247.js",
-    "runtime-main.js.map": "/apiWithGraphQLAndReact/static/js/runtime-main.51a17247.js.map",
-    "static/js/2.1bc1bb4c.chunk.js": "/apiWithGraphQLAndReact/static/js/2.1bc1bb4c.chunk.js",
-    "static/js/2.1bc1bb4c.chunk.js.map": "/apiWithGraphQLAndReact/static/js/2.1bc1bb4c.chunk.js.map",
-    "index.html": "/apiWithGraphQLAndReact/index.html",
-    "precache-manifest.caf8a4d456484a3d1c48a0ce69dfdff8.js": "/apiWithGraphQLAndReact/precache-manifest.caf8a4d456484a3d1c48a0ce69dfdff8.js",
-    "service-worker.js": "/apiWithGraphQLAndReact/service-worker.js",
-    "static/css/main.501034e5.chunk.css.map": "/apiWithGraphQLAndReact/static/css/main.501034e5.chunk.css.map",
-    "static/js/2.1bc1bb4c.chunk.js.LICENSE.txt": "/apiWithGraphQLAndReact/static/js/2.1bc1bb4c.chunk.js.LICENSE.txt"
+    "main.css": "/api-with-graphql/static/css/main.501034e5.chunk.css",
+    "main.js": "/api-with-graphql/static/js/main.dfc351de.chunk.js",
+    "main.js.map": "/api-with-graphql/static/js/main.dfc351de.chunk.js.map",
+    "runtime-main.js": "/api-with-graphql/static/js/runtime-main.6c4c7d04.js",
+    "runtime-main.js.map": "/api-with-graphql/static/js/runtime-main.6c4c7d04.js.map",
+    "static/js/2.1bc1bb4c.chunk.js": "/api-with-graphql/static/js/2.1bc1bb4c.chunk.js",
+    "static/js/2.1bc1bb4c.chunk.js.map": "/api-with-graphql/static/js/2.1bc1bb4c.chunk.js.map",
+    "index.html": "/api-with-graphql/index.html",
+    "precache-manifest.dbf84e041f73c478717d4c93924cf29e.js": "/api-with-graphql/precache-manifest.dbf84e041f73c478717d4c93924cf29e.js",
+    "service-worker.js": "/api-with-graphql/service-worker.js",
+    "static/css/main.501034e5.chunk.css.map": "/api-with-graphql/static/css/main.501034e5.chunk.css.map",
+    "static/js/2.1bc1bb4c.chunk.js.LICENSE.txt": "/api-with-graphql/static/js/2.1bc1bb4c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.51a17247.js",
+    "static/js/runtime-main.6c4c7d04.js",
     "static/js/2.1bc1bb4c.chunk.js",
     "static/css/main.501034e5.chunk.css",
     "static/js/main.dfc351de.chunk.js"
