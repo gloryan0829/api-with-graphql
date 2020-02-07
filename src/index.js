@@ -1,12 +1,33 @@
-import {GraphQLServer} from 'graphql-yoga';
-import resolvers from "./graphql/resolver";
-import path from 'path';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import { ApolloProvider } from '@apollo/react-hooks';
+import { ApolloClient } from 'apollo-client';
+import {createHttpLink} from 'apollo-link-http';
+import { InMemoryCache } from 'apollo-cache-inmemory';
+import https from 'https';
+import App from "./App";
 
-const schema = path.join(__dirname, 'graphql/schema.graphql');
-const app = new GraphQLServer({
-    typeDefs : schema,
-    resolvers
+const cache = new InMemoryCache();
+
+const link = new createHttpLink({
+    // uri: 'http://15.165.110.232',
+    uri: 'http://localhost:4000',
+    fetchOptions: {
+        agent: new https.Agent({ rejectUnauthorized: false }),
+    }
 });
 
+const client = new ApolloClient({
+    link,
+    cache
+});
 
-app.start(() => console.log(`graphql server started..`));
+ReactDOM.render(
+    <ApolloProvider client={client}>
+        <App />
+    </ApolloProvider>
+    , document.getElementById('root'));
+
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PWA

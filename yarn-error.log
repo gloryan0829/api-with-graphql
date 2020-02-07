@@ -2,7 +2,7 @@ Arguments:
   /usr/local/bin/node /usr/local/Cellar/yarn/1.19.2/libexec/bin/yarn.js add preset-env preset-stage-3
 
 PATH: 
-  /Users/Double_J/bin:/usr/local/bin:/Users/Double_J/Library/Android/sdk:/Users/Double_J/bin/Sencha/Cmd:/usr/local/opt/gettext/bin:/usr/local/opt/gettext/bin:/Users/DoubleJ/anaconda3/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Users/Double_J/DevWorkspace/study/api-with-graphql/node_modules/.bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/bin:/Users/DoubleJ/DevWorkspace/gradle-4.8.1/:/usr/local/Cellar/scala/2.12.5/libexec/bin:/Users/Double_J/go/bin:/Users/Double_J/.android-sdk-macosx/platform-tools/
+  /Users/Double_J/bin:/usr/local/bin:/Users/Double_J/Library/Android/sdk:/Users/Double_J/bin/Sencha/Cmd:/usr/local/opt/gettext/bin:/usr/local/opt/gettext/bin:/Users/DoubleJ/anaconda3/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Users/Double_J/DevWorkspace/study/api-with-graphql/node_modules/.bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Movie/bin:/Users/DoubleJ/DevWorkspace/gradle-4.8.1/:/usr/local/Cellar/scala/2.12.5/libexec/bin:/Users/Double_J/go/bin:/Users/Double_J/.android-sdk-macosx/platform-tools/
 
 Yarn version: 
   1.19.2

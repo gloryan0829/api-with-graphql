@@ -8,19 +8,21 @@ type User{
 type Movie {
   id: Int!
   title: String!
+  year: Int!
   rating: Float!
   summary: String!
   language: String!
+  genres: [String]!
   medium_cover_image: String!
 }
 
 type Query{
-    users: [User]
+    users: [User]!
     user(id:Int!): User
     movies(limit: Int, rating: Float): [Movie]!
 }
 
 type Mutation{
-    addMovie(name:String!,score:Int!): Movie
-    deleteMovie(id:Int!): Boolean!
+    addUser(name:String!,age:Int!, gender:String!): User
+    deleteUser(id:Int!): Boolean!
 }
